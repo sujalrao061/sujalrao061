@@ -5,7 +5,9 @@
 **Full-Stack Developer & Cybersecurity Explorer**  
 Building practical technology for real-world teams.
 
-<img src="./assets/hero.svg?v=1" alt="Animated profile hero" width="100%">
+<img src="./assets/hero.svg?v=1" alt="Profile hero" width="100%">
+
+<p align="center"><img src="./assets/id.png" alt="Sujal K Rao portrait" width="180"></p>
 
 </div>
 
@@ -33,6 +35,8 @@ Building practical technology for real-world teams.
 
 <img src="./assets/connect.svg?v=1" alt="Connect across social platforms" width="100%">
 
+<p align="center"><img src="./assets/right_pointing.png" alt="Portrait image for the connect section" width="120"></p>
+
 - [LinkedIn](#) · TODO: add your URL
 - [GitHub](https://github.com/sujalrao061) 
 - [Twitter / X](#) · TODO: add URL
@@ -44,6 +48,7 @@ Building practical technology for real-world teams.
 ---
 
 *Location, company, and social profiles can be added when you want them shown. The portrait PNGs are in `assets/`.*
+
 
 
 
