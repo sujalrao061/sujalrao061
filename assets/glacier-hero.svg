@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="glacier-title glacier-desc">
+  <title id="glacier-title">Sujal K Rao — Glacier</title>
+  <desc id="glacier-desc">An icy blue mountain landscape with fine technical grid lines and a gently moving orbital light.</desc>
+  <defs>
+    <linearGradient id="glacier-bg" x2="1" y2="1"><stop stop-color="#061622"/><stop offset="1" stop-color="#10384D"/></linearGradient>
+    <linearGradient id="glacier-ice" x2="0.8" y2="1"><stop stop-color="#E9FAFF"/><stop offset="0.5" stop-color="#8DD8EF"/><stop offset="1" stop-color="#276681"/></linearGradient>
+    <linearGradient id="glacier-line"><stop stop-color="#8DD8EF" stop-opacity="0"/><stop offset="0.5" stop-color="#B8EFFF"/><stop offset="1" stop-color="#8DD8EF" stop-opacity="0"/></linearGradient>
+    <pattern id="glacier-grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#B8EFFF" stroke-opacity="0.055"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="20" fill="url(#glacier-bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#glacier-grid)"/>
+  <circle cx="990" cy="168" r="105" fill="none" stroke="#8DD8EF" stroke-opacity="0.14"/>
+  <ellipse cx="990" cy="168" rx="151" ry="47" transform="rotate(-32 990 168)" fill="none" stroke="#8DD8EF" stroke-opacity="0.24"/>
+  <circle r="3" fill="#DFF8FF"><animateMotion dur="16s" repeatCount="indefinite" path="M1095 168 A105 105 0 1 1 885 168 A105 105 0 1 1 1095 168"/></circle>
+  <path d="M755 350 894 170 952 246 1007 193 1165 350Z" fill="url(#glacier-ice)" opacity="0.85"/>
+  <path d="m894 170 17 97 41-21-29 47 84-100-32 119 190 38H755Z" fill="#286580" opacity="0.72"/>
+  <path d="m755 350 139-180 58 76 55-53 158 157" fill="none" stroke="#DFF8FF" stroke-opacity="0.65" stroke-width="1.5"/>
+  <path d="M0 368Q260 300 580 370T1200 365V420H0Z" fill="#061622" opacity="0.6"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="82" fill="#8DD8EF" font-size="12" letter-spacing="5">SUJAL / BUILD</text>
+    <text x="60" y="173" fill="#EFFBFF" font-size="52" font-weight="650">Sujal K</text>
+    <text x="60" y="235" fill="#EFFBFF" font-size="52" font-weight="650">Rao<tspan fill="#8DD8EF">.</tspan></text>
+    <text x="64" y="293" fill="#B7D8E6" font-size="17" letter-spacing="1">FULL-STACK DEVELOPMENT / CYBERSECURITY</text>
+    <text x="64" y="365" fill="#8DD8EF" font-size="11" letter-spacing="3">CURIOUS MIND. CLEAR INTENT.</text>
+  </g>
+  <path d="M60 258H615" stroke="url(#glacier-line)" stroke-width="2" stroke-dasharray="555" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="555;0;0" keyTimes="0;0.4;1" dur="8s" repeatCount="indefinite"/></path>
+</svg>
