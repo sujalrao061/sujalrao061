@@ -1,54 +1,64 @@
-<div align="center">
+<p align="center">
+  <img src="assets/glacier-hero.svg" alt="Sujal K Rao — Full-stack development and cybersecurity" width="100%" />
+</p>
 
-# Sujal K Rao
+<p align="center">
+  <a href="https://github.com/sujalrao061">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sujal-rao-709069432">LinkedIn</a> ·
+  <a href="#selected-projects">Selected projects</a>
+</p>
 
-**Full-Stack Developer & Cybersecurity Explorer**  
-Building practical technology for real-world teams.
+<p align="center">
+  <img src="assets/sujal-portrait.jpeg" alt="Sujal K Rao" width="240" />
+</p>
 
-<img src="./assets/hero.svg?v=1" alt="Profile hero" width="100%">
+## Hello, I'm Sujal
 
-<p align="center"><img src="./assets/id.png" alt="Sujal K Rao portrait" width="180"></p>
+I build practical web applications and explore cybersecurity through projects. My work spans workforce coordination, privacy-aware investigations, and GPU memory experiments—turning technical problems into tools people can inspect and use.
 
-</div>
+## Selected projects
 
-## About
+### Headroom
+**GPU memory experiments with independent correctness checks.**
 
-<img src="./assets/about-life.svg?v=1" alt="About, experience, skills, and interests" width="100%">
+A PyTorch proof of concept that evaluates bounded memory-repair strategies against explicit output contracts. A Next.js workbench makes recorded GPU measurements and validation evidence inspectable.
 
-## Stack
+`Python` · `PyTorch` · `Next.js` · `TypeScript`
 
-<img src="./assets/stack.svg?v=1" alt="Technology stack categories" width="100%">
+[Explore the demo](https://headroom-beta-tan.vercel.app) · [Read the source](https://github.com/sujalrao061/headroom)
 
-## Profile card
+### TalentReadiness
+**Find suitable coverage when a team member is unavailable.**
 
-<img src="./assets/id-dashboard.svg?v=1" alt="Developer profile identity card" width="100%">
+A workforce-readiness platform that compares skills, availability, and workload to recommend replacements, explain the match, and support employee approval.
 
-## Projects
+`React` · `TypeScript` · `FastAPI` · `SQLAlchemy` · `SQLite`
 
-| Project | Description | Tech stack | Link |
-| --- | --- | --- | --- |
-| [TalentReadiness](https://talentreadiness.vercel.app/) | Workforce readiness and coverage platform that helps managers find suitable replacements using skills, availability, workload, role similarity, and project experience. | React, TypeScript, FastAPI, Python, SQLite | [Live demo](https://talentreadiness.vercel.app/) · [Source](https://github.com/sujalrao061/talentreadiness) |
-| [TraceGuard](https://github.com/sujalrao061/traceguard) | Privacy-first cybersecurity investigation portfolio lab focused on evidence-first detections and accountable security decisions. | Python, cybersecurity investigation | [View project](https://github.com/sujalrao061/traceguard) |
+[Explore the demo](https://talentreadiness.vercel.app) · [Read the source](https://github.com/sujalrao061/talentreadiness)
 
+### TraceGuard
+**Investigate security signals with evidence and privacy in view.**
 
-## Connect
+A cybersecurity portfolio lab using synthetic identity events, transparent detection rules, evidence-linked briefs, and redacted reports. The hosted experience is a browser-only demonstration.
 
-<img src="./assets/connect.svg?v=1" alt="Connect across social platforms" width="100%">
+`JavaScript` · `HTML / CSS` · `Python` · `FastAPI` · `SQLite`
 
-<p align="center"><img src="./assets/right_pointing.png" alt="Portrait image for the connect section" width="120"></p>
+[Explore the demo](https://traceguard-kappa.vercel.app) · [Read the source](https://github.com/sujalrao061/traceguard)
 
-- [LinkedIn](#) · TODO: add your URL
-- [GitHub](https://github.com/sujalrao061) 
-- [Twitter / X](#) · TODO: add URL
-- [Portfolio](#) · TODO: add URL
-- [YouTube](#) · TODO: add URL
-- [Instagram](#) · TODO: add URL
-- [Topmate](#) · TODO: add URL
+## Toolkit
 
----
+| Area | Technologies used in my projects |
+| :--- | :--- |
+| Languages | Python, TypeScript, JavaScript, HTML, CSS |
+| Interfaces | React, Next.js, Vite, Tailwind CSS |
+| APIs & data | FastAPI, SQLAlchemy, SQLite |
+| ML & compute | PyTorch, CUDA memory measurement |
+| Delivery | Docker, Vercel, Render |
 
-*Location, company, and social profiles can be added when you want them shown. The portrait PNGs are in `assets/`.*
+## Contribution activity
 
+[![Actual GitHub contributions, glacier palette, captured October 17, 2026](assets/glacier-contributions.svg)](https://github.com/sujalrao061?tab=overview)
 
+This is a dated snapshot of GitHub's contribution activity levels, recolored in glacier blue. [View current activity on GitHub](https://github.com/sujalrao061?tab=overview).
 
-
+<img src="assets/glacier-footer.svg" alt="Glacier mountain silhouette" width="100%" />
